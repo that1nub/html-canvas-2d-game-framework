@@ -9,9 +9,9 @@ An HTML game framework for a canvas.
   5. In the game's JavaScript file, add
 ```javascript 
 const game = document.getElementById("game");
-javascript const ctx = game.getContext("2d");
-javascript setCanvas(game);
-javascript setContext(ctx);
+const ctx = game.getContext("2d");
+setCanvas(game);
+setContext(ctx);
 ```
   6. Done!
   
