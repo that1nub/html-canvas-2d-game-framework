@@ -1,6 +1,9 @@
 # HTML Canvas 2D Game Framework
 An HTML game framework for a canvas.
 
+# NOTICE
+This is not finished, so there is a lack of features and functionality. This is also not currently be working on, don't expect updates
+
 # Installing
   1. Download `nub_gf.js`
   2. In the HTML file where the canvas is located, add `<script src="nub_gf.js"></script>` in the header
